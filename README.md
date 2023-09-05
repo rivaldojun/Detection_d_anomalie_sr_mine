@@ -1,4 +1,4 @@
-# Detection_d_anomalie_sr_mine
+# Detection_d_anomalie_sur_mine
 Detection d'anomalie(incendie &amp; chute)
 # Projet de Computer Vision pour la Détection d'Incidents dans une Mine
 
