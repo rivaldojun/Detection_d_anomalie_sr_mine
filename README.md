@@ -12,7 +12,7 @@ Ce projet est une application de Computer Vision qui utilise des techniques de d
 - Enregistrement des incidents pour l'analyse et la prévention ultérieure.(a venir)
 
 ## Exemple d'utilisation
-Dans ce repo on utilise la camera local du device pour faire les tests.Une camera externe serait necessaire pour un deploiement reel
+Dans ce repo on utilise la camera local du device pour faire les tests.Une camera externe serait necessaire pour un deploiement reel.
 Voici comment utiliser notre projet de Computer Vision pour la détection d'incidents dans une mine :
 
 1. Clonez ce dépôt sur votre machine locale :
